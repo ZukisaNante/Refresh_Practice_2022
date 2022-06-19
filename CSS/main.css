@@ -27,6 +27,7 @@ h1 {
     color: black;
     align-items: center;
     background-color: aliceblue;
+    border: 1px solid black;
 }
 
 .centerDiv {
@@ -35,10 +36,12 @@ h1 {
     align-content: center;
     color: black;
     background-color: blanchedalmond;
+    border: 1px solid red;
 }
 
 .rightDiv {
     background-color: aqua;
     color: black;
     align-items: center;
+    border: 1px solid gray;
 }
